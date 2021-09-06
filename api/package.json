@@ -1,0 +1,14 @@
+{
+    "name": "limitertest",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "test"
+    },
+    "author": "isa",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
